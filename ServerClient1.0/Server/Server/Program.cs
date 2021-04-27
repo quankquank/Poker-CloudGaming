@@ -43,10 +43,10 @@ namespace Server
         {
             this.clientSocket = inClientSocket;
             this.clNo = clineNo;
-            Thread ctThread = new Thread(do);
+            Thread ctThread = new Thread(startConn);
             ctThread.Start();
         }
-        private void do()
+        private void startConn()
         {
             int requestCount = 0;
             byte[] bytesFrom = new byte[10025];
