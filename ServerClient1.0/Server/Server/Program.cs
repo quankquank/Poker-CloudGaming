@@ -43,10 +43,10 @@ namespace Server
         {
             this.clientSocket = inClientSocket;
             this.clNo = clineNo;
-            Thread ctThread = new Thread(doChat);
+            Thread ctThread = new Thread(do);
             ctThread.Start();
         }
-        private void doChat()
+        private void do()
         {
             int requestCount = 0;
             byte[] bytesFrom = new byte[10025];
