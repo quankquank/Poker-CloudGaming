@@ -1,0 +1,7 @@
+C:\Users\sonvm\source\repos\Sver\Sver\obj\Debug\Sver.csprojAssemblyReference.cache
+C:\Users\sonvm\source\repos\Sver\Sver\obj\Debug\Sver.csproj.CoreCompileInputs.cache
+C:\Users\sonvm\source\repos\Sver\Sver\bin\Debug\Sver.exe.config
+C:\Users\sonvm\source\repos\Sver\Sver\bin\Debug\Sver.exe
+C:\Users\sonvm\source\repos\Sver\Sver\bin\Debug\Sver.pdb
+C:\Users\sonvm\source\repos\Sver\Sver\obj\Debug\Sver.exe
+C:\Users\sonvm\source\repos\Sver\Sver\obj\Debug\Sver.pdb
