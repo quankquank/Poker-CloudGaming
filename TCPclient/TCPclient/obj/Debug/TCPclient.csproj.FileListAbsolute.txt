@@ -1,0 +1,7 @@
+C:\Users\sonvm\source\repos\TCPclient\TCPclient\bin\Debug\TCPclient.exe.config
+C:\Users\sonvm\source\repos\TCPclient\TCPclient\bin\Debug\TCPclient.exe
+C:\Users\sonvm\source\repos\TCPclient\TCPclient\bin\Debug\TCPclient.pdb
+C:\Users\sonvm\source\repos\TCPclient\TCPclient\obj\Debug\TCPclient.csproj.CoreCompileInputs.cache
+C:\Users\sonvm\source\repos\TCPclient\TCPclient\obj\Debug\TCPclient.exe
+C:\Users\sonvm\source\repos\TCPclient\TCPclient\obj\Debug\TCPclient.pdb
+C:\Users\sonvm\source\repos\TCPclient\TCPclient\obj\Debug\TCPclient.csprojAssemblyReference.cache
